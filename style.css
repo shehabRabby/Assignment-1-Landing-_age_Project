@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+.raleway{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* Start Here div1*/
+.div1{
+    height: 700px; 
+    background-image: url(Assets/Hero-bg.png);
+    background-size:contain;
+}
+
+nav{
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo{
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 150%;
+    color: rgba(78, 71, 255, 1);
+}
+
+
+.inter-div1{
+    width: 905px;
+    height: 375px;
+    text-align: center;
+    margin: auto;
+    padding-top:158px ;
+}
+.all-button{
+     height: 48px;
+     width: 132px;
+     color: white;
+     background-color: #3129fb;
+     border-radius: 10px;
+     border: none;
+}
+
+#p1{
+    font-size: 65px;
+    font-weight: 700;
+    color: #252432;
+}
+
+.all-button2{
+     height: 48px;
+     width: 174px;
+     color: white;
+     background-color: #3129fb;
+     border-radius: 10px;
+     margin-top: 50px;
+     border: none;
+}
+
+/* See Action Part */
+.container1{
+  width: 1150px;
+  height: 330px;
+  margin-top: 50px;
+  margin-bottom: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  align-items: center;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.head-title-container{
+    width: 517px;
+    height: 203px;
+    text-align: left;
+}
+
+
+#head-title{
+    font-size: 42px;
+    font-weight: 700;
+    color: #252432;
+}
+
+#head-image{
+    border-radius: 40px;
+}
+
+#all-paragraph{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #25243250;
+}
+
+.all-button3{
+     height: 48px;
+     width: 230px;
+     color: white;
+     background-color: #3129fb;
+     border-radius: 10px;
+     margin-top: 30px;
+     border: none;
+}
+
+.title-1{
+    margin-bottom: 20px;
+}
+
+
+/* Productive users */
+.container2{
+  width: 1150px;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  align-items: center;
+  padding: 60px 30px;
+  background-color: #4d47ff25;
+  border-radius: 24px;
+
+}
+
+.how-many{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+#title2{
+    margin-top: 50px;
+}
+
+.number, h2{
+   font-size: 80px;
+   font-weight: 700;
+   color: #4E47FF;
+}
+.number,p{
+    color: #00000050;
+    font-size: 20px;
+    font-weight: 400;
+}
+
